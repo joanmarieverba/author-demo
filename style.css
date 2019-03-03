@@ -6,8 +6,16 @@ body {
   font-family: 'Cookie';
 }
 
-.text-color {
+.text-center {
+  text-align: center;
+}
+
+.text-blue {
   color: blue;
+}
+
+.text-black {
+  color: black;
 }
 
 .vspace {
