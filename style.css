@@ -2,6 +2,10 @@ body {
   font-family: 'Roboto', sans-serif;
 }
 
+.about-social li {
+    display: inline-block;
+}
+
 .autograph {
   font-family: 'Cookie';
 }
