@@ -2,12 +2,24 @@ body {
   font-family: 'Roboto', sans-serif;
 }
 
+a {
+  color: white;
+}
+
 .about-social li {
     display: inline-block;
 }
 
 .autograph {
   font-family: 'Cookie';
+}
+
+.lineup {
+  display: inline-block;
+}
+
+.lspace {
+  margin-left: 2vw;
 }
 
 .text-center {
@@ -22,6 +34,17 @@ body {
   color: black;
 }
 
+.text-white {
+  color: white;
+}
+
+ul {
+  list-style-type: none;
+}
+
+.vpad {
+  padding-top: 5vh;
+}
 
 .vspace {
   margin-top: 1vh;
