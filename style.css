@@ -2,7 +2,7 @@ body {
   font-family: 'Roboto', sans-serif;
 }
 
-a {
+li > a {
   color: white;
 }
 
@@ -58,6 +58,10 @@ ul {
 
 .vspace {
   margin-top: 1vh;
+}
+
+.vspaceb {
+  margin-bottom: 5vh;
 }
 
 .wide-font{
